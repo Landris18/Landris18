@@ -1,5 +1,5 @@
 
-<p align=center>  <strong> 🇲🇬 >_ Mbola tsara !  👋 🇲🇬 </strong> <p>
+<p align=center>  <strong> 🇲🇬 >_ Mbola tsara ! - Tongasoa  👋 🇲🇬 </strong> <p>
 
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%ff2ebc4f&center=true&lines=Landry+Manankoraisina+RASENDRANIRINA'>
