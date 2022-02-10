@@ -2,7 +2,7 @@
 <p align=center>  <strong> 🇲🇬 >_ Mbola tsara ! - Tongasoa  👋 🇲🇬 </strong> <p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=%ff2ebc4f&lines=Landry+Manankoraisina+RASENDRANIRINA'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=%ff2ebc4f&lines=Landry+Manankoraisina+as+Landris18'>
 <p>
 
 <p align=center>  <strong>
