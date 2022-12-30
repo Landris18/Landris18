@@ -1,5 +1,5 @@
 
-<p align=center>  <strong> 🇲🇬 >_ Mbolatsara! - Tsara ny navy  👋 🇲🇬 </strong> </p>
+<p align=center>  <strong> 🇲🇬 >_ Mbolatsara ! - Tsara ny navy  👋 🇲🇬 </strong> </p>
 
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&center=true&color=%ff2ebc4f&lines=Landry+Manankoraisina+as+Landris18'/>
