@@ -17,7 +17,7 @@
   <img alt='Powershell' src='https://img.shields.io/badge/Powershell-111621?style=for-the-badge&logo=powershell&logoColor=white'/>
   <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-1289c4?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white'/>
-  <img alt='BASH' src='https://img.shields.io/badge/bash-11a63b?style=for-the-badge&logo=linux&logoColor=black'/>
+  <img alt='BASH' src='https://img.shields.io/badge/bash-11a63b?style=for-the-badge&logo=linux&logoColor=white'/>
 </p>
 
 <p align=center>  
