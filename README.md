@@ -5,12 +5,6 @@
   <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&center=true&color=%ff2ebc4f&lines=Landry+Manankoraisina+as+Landris18'/>
 </p>
 
-<div>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=landris18&theme=github-dark&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="Stats"     /> 
-  </p>
-</div>
-
 <p align='center'>
   <img alt='Dart' src='https://img.shields.io/badge/Dart-0f7d99?style=for-the-badge&logo=dart&logoColor=white'/>
   <img alt='Python' src='https://img.shields.io/badge/Python-ba1a37?style=for-the-badge&logo=python&logoColor=white'/>
