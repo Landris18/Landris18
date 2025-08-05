@@ -5,9 +5,11 @@
   <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&center=true&color=%ff2ebc4f&lines=Landry+Manankoraisina+as+Landris18'/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=landris18&theme=black-ice&hide_border=true" alt="GitHub Streak" />
 </p>
+-->
 
 <p align='center'>
   <img alt='Dart' src='https://img.shields.io/badge/Dart-0f7d99?style=for-the-badge&logo=dart&logoColor=white'/>
