@@ -20,9 +20,3 @@
   <img alt='BASH' src='https://img.shields.io/badge/bash-11a63b?style=for-the-badge&logo=linux&logoColor=white'/>   
   <img alt='MANJARO' src='https://img.shields.io/badge/manjaro-36c4a8?style=for-the-badge&logo=manjaro&logoColor=white'/>
 </p>
-
-<p align=center>  
-  <strong>
-    <img src='https://komarev.com/ghpvc/?username=landris18&color=blue&label=PROFILE+VIEW&style=for-the-badge'/>
-  </strong> 
-</p>
